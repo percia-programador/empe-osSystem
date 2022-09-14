@@ -1,3 +1,3 @@
 # empe-osSystem
 
-Este es un sistemita para negociar Articulos en una casa de empeño. Con condiciones para hacer mas llamativo el negocio.
+Este es un sistemita para negociar Articulos en una casa de empeño. Tiene buenas condiciones para hacer mas llamativo el negocio.
